@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "sha3": "^1.2.1",
+    "truffle-hdwallet-provider": "0.0.3",
     "zeppelin-solidity": "1.2.0",
     "ethereumjs-wallet": "^1.0.0",
     "web3-provider-engine": "https://github.com/MetaMask/web3-provider-engine.git",
